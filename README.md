@@ -59,3 +59,6 @@ Input arguments are vary among the codes, so please check the `train.py` for mor
 ## Suggested Readings
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) by yunjey
 - [practical-torchtext](https://github.com/keitakurita/practical-torchtext) by keitakurita
+
+## Other exercise links
+- .[pytorch nlp tutorial](https://pytorch-nlp-tutorial-ny2018.readthedocs.io/en/latest/download_data.html)
